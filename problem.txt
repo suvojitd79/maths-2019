@@ -1,0 +1,8 @@
+Excel Column Title	
+City Tour	
+Finding Position	
+Find if two rectangles overlap
+Trailing Zeros in Factorial	
+Sorted Permutation Rank	
+Rectangle Area	
+Find nth Magic Number	
